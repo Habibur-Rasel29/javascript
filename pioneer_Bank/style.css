@@ -1,0 +1,28 @@
+body{
+    margin: 100px;
+}
+.submit-area{
+    margin-top: 50px;
+    padding: 40px;
+    box-shadow: 10px 10px 20px #607a7557;
+    border-radius: 10px;
+}
+#transction-area{
+    display: none;
+}
+#deposit-bg{
+background-color: #6a5acd;
+}
+#withdraw-bg{
+background-color: #ffa07a;
+}
+#balance-bg{
+background-color: #ffa500;
+}
+.money-checker{
+  
+    margin: 0px 25px;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+}
